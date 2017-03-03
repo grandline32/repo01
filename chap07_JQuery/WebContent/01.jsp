@@ -4,7 +4,7 @@
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	
-<h1>jQuery</h1>
+<h1>jQuery111</h1>
 자바스크립트 프로그래밍을 쉽게 구현할수 있게 만들어둔 자바 스크립트 라이브러리
 <br />
 자바스크립트의 역활을 알면 쉽게 배울수 있다.
